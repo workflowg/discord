@@ -1,2 +1,2 @@
 {set:times|{arg:0}}
-{repeat:{get:times}|{replycontent}}
+{repeat:{get:times}|{arg:1}}
